@@ -20,7 +20,7 @@ Ans. Set of rules that has to be followed while writing code.
 
 6.   What is TC39?
 
-Ans. EC39 is a technical committee under ECMA international that standerdizes java    script language under ECMA script specification.
+Ans. TC39 is a technical committee under ECMA international that standerdizes java    script language under ECMA script specification.
 
 7.   Name different data types in JavaScript
 
